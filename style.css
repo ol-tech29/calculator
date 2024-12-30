@@ -1,0 +1,31 @@
+.main-container{
+  
+    width: 300px;
+    font-family: cursive;
+    border: solid 5px blue;
+   
+}
+button{
+    height: 50px;
+    width: 50px;
+    border-radius: 40%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+    background-color:#3b3935;
+    color: whitesmoke;
+}
+#result{
+margin-bottom: 15px;
+font-size: 1rem;
+margin-left: 5px;
+}
+body{
+    display:flex;
+    justify-content: center;
+    
+}
+h5{
+    margin-left: 5px;
+}
